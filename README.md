@@ -10,15 +10,30 @@ Class RSImgPro is a subclass of QMainWindow. Object img is used to store the ima
 
 ![image](https://github.com/SongxiYoung/2019-RemoteSensingDataProcessingSoftware/blob/main/img-folder/1.png)
 
-compute.py
-convolve.py
-equalHist.py
-imgpro.py
-save.py
-window.py
-Classification_ISO.py
-Classification_K.py
-HSI.py
-NaiveBayesMulti.py
-PCA.py
+
+equalHist.py:
+Histogram equalization is essentially a nonlinear stretching of the image, redistributing the image pixel values so that the number of pixel values in a certain gray scale range is approximately equal.
+
+![image](https://github.com/SongxiYoung/2019-RemoteSensingDataProcessingSoftware/blob/main/img-folder/%E5%9B%BE%E7%89%87%2018.png)
+
+
+convolve.py:
+
+
+save.py:
+
+
+HSI.py:
+
+
+NaiveBayesMulti.py:
+
+
+Classification_ISO.py:
+
+
+Classification_K.py:
+
+
+PCA.py:
 
