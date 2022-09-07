@@ -8,7 +8,7 @@ RSPro.py:
 
 Class RSImgPro is a subclass of QMainWindow. Object img is used to store the image matrix of the current window, with all processing operations using this member, ensuring that the image can be repeatedly processed.
 
-![image]([https://github.com/SongxiYoung/2019-RemoteSensingDataProcessingSoftware/blob/main/img-folder/1.png])
+![image](https://github.com/SongxiYoung/2019-RemoteSensingDataProcessingSoftware/blob/main/img-folder/1.png)
 
 compute.py
 convolve.py
